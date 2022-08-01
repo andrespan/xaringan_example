@@ -1,0 +1,39 @@
+---
+title: "Presentation Ninja"
+author: "Yihui Xie"
+institute: "RStudio, PBC"
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    css: [useR, useR-fonts]
+    
+---
+#Titulo nivel 1
+
+Contenido 
+
+---
+#Titulo Nivel 2
+
+
+Contenido 
+
+
+---
+#Titulo 
+
+Contenido 
+
+
+---
+
+#Titulo diapo
+
+contenido1 
+
+---
+
+
+
+
+
